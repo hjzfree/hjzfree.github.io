@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjzfree.github.io</id>
     <title>MAGNON</title>
-    <updated>2020-11-02T14:23:16.672Z</updated>
+    <updated>2020-11-02T15:15:42.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hjzfree.github.io"/>
     <link rel="self" href="https://hjzfree.github.io/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://hjzfree.github.io/images/avatar.png</logo>
     <icon>https://hjzfree.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MAGNON</rights>
+    <entry>
+        <title type="html"><![CDATA[on current papers]]></title>
+        <id>https://hjzfree.github.io/post/my-commentaries-on-current-papers/</id>
+        <link href="https://hjzfree.github.io/post/my-commentaries-on-current-papers/">
+        </link>
+        <updated>2020-11-02T15:12:57.000Z</updated>
+        <content type="html"><![CDATA[<p>1 <a href="https://www.nature.com/articles/s41597-020-0407-9">An automatically curated first-principles database of ferroelectrics</a><br>
+Tess E. Smidt, Stephanie A. Mack, Sebastian E. Reyes-Lillo, Anubhav Jain &amp; Jeffrey B. Neaton<br>
+Scientific Data volume 7, Article number: 72 (2020)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My commentaries on PR papers]]></title>
+        <id>https://hjzfree.github.io/post/my-commentaries-on-pr-papers/</id>
+        <link href="https://hjzfree.github.io/post/my-commentaries-on-pr-papers/">
+        </link>
+        <updated>2020-11-02T14:26:12.000Z</updated>
+        <content type="html"><![CDATA[<p>Recently, I start to read papers about condensed matter physics.  I find that Physical Review B is celebrating its 50th anniversary in 2020.As part of the celebration, in 2020 they are presenting a Milestone collection of papers that have made lasting contributions to condensed matter physics.<br>
+What a pleasant coincidence!  I think how about I write down my commentary while reading. This will be a fun journey.</p>
+<p>1 <a href="https://link.aps.org/doi/10.1103/PhysRevB.47.1651?utm_source=article-collection&amp;utm_medium=web&amp;utm_campaign=theory-of-polarization-of-crystalline-solids">Theory of polarization of crystalline solids</a><br>
+R. D. King-Smith and David Vanderbilt<br>
+Phys. Rev. B 47, 1651 (1993)</p>
+<p>2 <a href="https://link.aps.org/doi/10.1103/PhysRevB.54.11169?utm_source=article-collection&amp;utm_medium=web&amp;utm_campaign=efficient-iterative-schemes-for-_ab-initio_-total-energy-calculations-using-a-plane-wave-basis-set">Efficient iterative schemes for ab initio total-energy calculations using a<br>
+plane-wave basis set</a><br>
+G. Kresse and J. Furthmüller<br>
+Phys. Rev. B 54, 11169 (1996)</p>
+<p>3 <a href="https://link.aps.org/doi/10.1103/PhysRevB.71.014113?utm_source=article-collection&amp;utm_medium=web&amp;utm_campaign=first-principles-study-of-spontaneous-polarization-in-multiferroic--bifeosub3sub">First-principles study of spontaneous polarization in multiferroic BiFeO3</a><br>
+J. B. Neaton, C. Ederer, U. V. Waghmare, N. A. Spaldin, and K. M. Rabe<br>
+Phys. Rev. B 71, 014113 (2005)</p>
+<p>4 <a href="https://link.aps.org/doi/10.1103/PhysRevB.76.045302?utm_source=article-collection&amp;utm_medium=web&amp;utm_campaign=topological-insulators-with-inversion-symmetry">Topological insulators with inversion symmetry</a><br>
+Liang Fu and C. L. Kane<br>
+Phys. Rev. B 76, 045302 (2007)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About me ]]></title>
+        <id>https://hjzfree.github.io/post/about/</id>
+        <link href="https://hjzfree.github.io/post/about/">
+        </link>
+        <updated>2020-11-02T14:02:46.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>welcome to my blog<br>
+my name is Jinzhe Han<br>
+a phd candidate in materials science at njust in China<br>
+my email is hjzfree@163.com and imjzhan@gmail.com<br>
+please feel free to contact me if you have any questions</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hjzfree.github.io/post/hello-gridea/</id>
