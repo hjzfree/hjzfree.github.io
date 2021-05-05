@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjzfree.github.io</id>
     <title>MAGNON</title>
-    <updated>2021-04-03T10:39:24.468Z</updated>
+    <updated>2021-05-05T08:47:31.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hjzfree.github.io"/>
     <link rel="self" href="https://hjzfree.github.io/atom.xml"/>
@@ -16,7 +16,12 @@
         <link href="https://hjzfree.github.io/post/language/">
         </link>
         <updated>2020-11-14T12:29:11.000Z</updated>
-        <content type="html"><![CDATA[<p>这几天看到一篇文章讲崔琦的。文章中提到崔琦说，华人研读科学应该中英文交错使用，才可兼容并蓄，收到真正学习之效。只懂得中文会令科学家无法追读到最新的科研报告，而完全放弃中文却是舍本逐末。<br>
+        <content type="html"><![CDATA[<p>The mastery of English is never an overnight job.<br>
+It's not. It's by no means an overnight job.<br>
+It take a long time and of course a lot effort to attain a goal, step by step,<br>
+before you know it you will get there.<br>
+<a href="https://www.youtube.com/watch?v=6VTKSZ_kRx0&amp;t=1048s">From a vedio </a></p>
+<p>这几天看到一篇文章讲崔琦的。文章中提到崔琦说，华人研读科学应该中英文交错使用，才可兼容并蓄，收到真正学习之效。只懂得中文会令科学家无法追读到最新的科研报告，而完全放弃中文却是舍本逐末。<br>
 后面这个舍本逐末让我感触比较深。我最近试图完全使用英文来维护这个博客，可是发现很难表达出自己的想法，搞得自己郁郁不乐。<br>
 今天刚刚安装上谷歌拼音，特意来试一试。可能今后的一段时间确实是要中英夹杂了。或许等一段时间又会因为强迫症而把这删掉。但总是希望过程比结果要重要吧。</p>
 <p>sudo apt-get install fcitx-googlepinyin<br>
